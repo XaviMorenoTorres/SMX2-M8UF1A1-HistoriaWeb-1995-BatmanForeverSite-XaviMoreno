@@ -14,11 +14,11 @@ El sitio presenta algunas tecnologías experimentales, como tableros de mensajes
 
 _**4. ¿Cuando se estreno?**_
 
-El 16 de junio de 1995 
+El 16 de junio de 1995.
 
 _**5. ¿En cuantos cines se estreno?**_
 
-Batman Forever se estrenó en 2842 cines en Estados Unidos 
+Batman Forever se estrenó en 2842 cines en Estados Unidos.
 
 _**6. ¿Cuanto dinero recaudó la primera semana?**_
 
