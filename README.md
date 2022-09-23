@@ -8,6 +8,9 @@ _**2. ¿Que representa esta pelicula?**_
 
 Representa uno de los primeros grandes esfuerzos de marketing y diseño visual en la web.
 
+
+![Batman Forever Site](https://user-images.githubusercontent.com/96111285/191999667-b55663d8-99ad-45ec-bd4a-6946803cc0a7.png)
+
 _**3. ¿Que representa este sitio?**_
 
 El sitio presenta algunas tecnologías experimentales, como tableros de mensajes, videos y una introducción animada.
